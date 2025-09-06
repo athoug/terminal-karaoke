@@ -1,0 +1,25 @@
+{
+	"name": "terminal-karaoke",
+	"version": "1.0.0",
+	"description": "a small program inspired by from tiktok",
+	"homepage": "https://github.com/athoug/terminal-karaoke#readme",
+	"bugs": {
+		"url": "https://github.com/athoug/terminal-karaoke/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/athoug/terminal-karaoke.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"chalk": "^5.6.0",
+		"strip-ansi": "^7.1.0",
+		"yargs": "^18.0.0"
+	}
+}
